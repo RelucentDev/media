@@ -4,7 +4,7 @@
 
 ## License
 
-[CC-BY-4.0](LICENSE.txt) &copy; 2024 Relucent Ltd.
+[CC-BY-4.0](LICENSE.txt) &copy; 2024 Relucent
 
 ### Contact
 
