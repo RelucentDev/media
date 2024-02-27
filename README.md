@@ -1,6 +1,6 @@
 # Relucent&#x27;s Branding, Logos and Resources
 
-![Relucent&#x27;s Branding, Logos and Resources Cover Image](cover.png)
+![Relucent's Branding, Logos and Resources Cover Image](cover.png)
 
 ## License
 
